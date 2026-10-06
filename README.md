@@ -1,79 +1,98 @@
-<h1 align="center">Hi 👋, I'm Arfath</h1>
+<div align="center">
 
-<h3 align="center">
-  Java Developer &nbsp;•&nbsp; Full Stack Developer &nbsp;•&nbsp; CSE Student
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Arfath;Java+Developer;Full+Stack+Developer;CSE+Student" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arfathulla&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/Arfathulla">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/arfath-as-37b1a732a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Arfathulla&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<br><br>
+
+<a href="https://github.com/Arfathulla">
+<img src="https://img.shields.io/badge/GitHub-Arfathulla-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arfath-as-37b1a732a">
+<img src="https://img.shields.io/badge/LinkedIn-Arfath%20AS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-| | |
-|:--|:--|
-| 🎓 **Education** | Computer Science & Engineering Student |
-| 🏫 **College** | University Visvesvaraya College of Engineering |
-| 💻 **Interests** | Java & Full Stack Development |
-| ☕ **Currently Focusing On** | Java and Spring Boot |
-| 🗄️ **Also Into** | Database Management and Backend Development |
-| 🤖 **Exploring** | Artificial Intelligence and Machine Learning |
-| 🚀 **Building** | Real-world software projects |
-| 📚 **Always** | Learning and improving my problem-solving skills |
+- 🎓 Computer Science & Engineering Student
+- 🏫 University Visvesvaraya College of Engineering
+- 💻 Interested in Java & Full Stack Development
+- ☕ Currently focusing on Java and Spring Boot
+- 🗄️ Interested in Database Management and Backend Development
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Building real-world software projects
+- 📚 Always learning and improving my problem-solving skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><b>💻 Languages</b></td>
-    <td align="center"><b>⚙️ Backend & Frameworks</b></td>
-    <td align="center"><b>🗄️ Database</b></td>
-    <td align="center"><b>🔧 Tools</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring,nodejs" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-    </td>
-  </tr>
-</table>
+### 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&perline=5" />
+
+</div>
+
+### ⚙️ Backend & Frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs&perline=5" />
+
+</div>
+
+### 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=5" />
+
+</div>
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&perline=5" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfathulla&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfathulla&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arfathulla&show_icons=true&theme=transparent&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfathulla&layout=compact&theme=transparent&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arfathulla&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Arfathulla&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat+%F0%9F%9A%80" />
+
+</div>
