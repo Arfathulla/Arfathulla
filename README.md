@@ -60,44 +60,7 @@ Java Developer | Full Stack Developer | CSE Student
 
 ---
 
-## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
-
-A Java and MySQL based hospital management application designed to manage hospital operations.
-
-**Features:**
-- 👤 Patient Management
-- 👨‍⚕️ Doctor Management
-- 📅 Appointment Management
-- 🏥 Hospital Records
-- 💾 Database Management
-
-**Technology:** Java • MySQL
-
----
-
-### 🏨 HotelIQ
-
-An AI-based hotel analytics and prediction project focused on extracting useful insights from hotel data.
-
-**Technology:** Python • Machine Learning • Data Analysis
-
----
-
-### 🍔 Food Ordering System
-
-A Java-based food ordering application with JSP and SQL for managing food orders.
-
-**Technology:** Java • JSP • SQL
-
----
-
-### 🌦️ Weather Application
-
-A web application that displays current weather information for different cities.
-
-**Technology:** JavaScript • HTML • CSS • Weather API
 
 ---
 
@@ -118,29 +81,3 @@ A web application that displays current weather information for different cities
 
 ---
 
-## 🧠 Currently Learning
-
-```text
-Java
-  ├── OOP
-  ├── Collections
-  ├── Exception Handling
-  ├── Multithreading
-  └── DSA
-
-Spring Boot
-  ├── REST APIs
-  ├── Spring Data JPA
-  ├── Spring Security
-  └── Database Integration
-
-Development
-  ├── MySQL
-  ├── Git & GitHub
-  └── Full Stack Development
-
-AI / ML
-  ├── Python
-  ├── Data Preprocessing
-  ├── Machine Learning
-  └── Predictive Models
