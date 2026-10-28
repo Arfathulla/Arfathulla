@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css&perline=5" />
 
 </div>
 
