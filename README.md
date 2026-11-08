@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&theme=dark&perline=8" />
 
 </div>
 
