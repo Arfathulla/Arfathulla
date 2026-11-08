@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arfathulla&bg_color=0D1117&color=00BFFF&line=0077B6&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=Arfathulla&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 </div>
 
