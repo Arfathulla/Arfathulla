@@ -27,7 +27,6 @@
 - 💻 Interested in Java & Full Stack Development
 - ☕ Currently focusing on Java and Spring Boot
 - 🗄️ Interested in Database Management and Backend Development
-- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🚀 Building real-world software projects
 - 📚 Always learning and improving my problem-solving skills
 
