@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs&perline=5" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs&perline=5" />
 
 </div>
 
